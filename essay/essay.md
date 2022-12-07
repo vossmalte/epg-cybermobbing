@@ -10,10 +10,48 @@ titlepage-background: "background1.pdf"
 toc-own-page: true
 ---
 
-## Introduction
+## Einleitung und Definition
 
-Sit dolor amet.
+## Fallbetrachtung: Drachenlord
 
-## Conclusion
+<!-- größter Fall weltweit / Deutschland -->
 
-Thank you, `pandoc`!
+### Anfänge
+
+<!-- Beleidugung, Harassment -->
+
+### Eskalation
+
+<!-- Besuche, Bedrohung, Cybergrooming, Swatting -->
+
+### Rechtliche und gesellschaftliche Reaktionen
+
+<!--
+Mobbing kein Strafbestand
+Platzverweise
+Prozess gegen RW
+-->
+
+## Cybermobbing in der Schule
+
+### Widersprüche
+
+<!--
+digitale Freizeit
+Kompetenz von Lehrkräften
+keine Kontrolle der Medien
+'unsichtbar'
+-->
+
+### Maßnahmen
+
+<!--
+Workshops, siehe offline-Mobbing
+
+-->
+
+## Fazit
+
+<!--
+  Kompetenzen, Gesellschaft als Fundament
+-->
