@@ -1,12 +1,12 @@
 ---
-title: "My Essay in Markdown"
-subtitle: "Lorem ipsum"
+title: "Cybermobbing"
+subtitle: "Extrema, Schule und Maßnahmen"
 author: "Malte Voß"
 date: "\\today"
 titlepage: true
-titlepage-background: "background1.pdf"
-#titlepage-rule-color: "009669"
-#logo: "kit-logo-de-rgb.pdf"
+titlepage-background: "background3.pdf"
+titlepage-rule-color: "009669"
+titlepage-logo: "logo_kit_de.pdf"
 toc-own-page: true
 ---
 
