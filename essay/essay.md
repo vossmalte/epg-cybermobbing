@@ -142,9 +142,45 @@ Seine Identiät wurde auch von anderen Personen angenommen, so etwa zu Beginn de
 
 ### Rechtliche und gesellschaftliche Reaktionen
 
+Der oben genannte Fall des Swattings wird strafrechtlich verfolgt und ist ein Grund für eine Verurteilung[^swatting_urteil].
+Es ist zu beachten, dass "der Missbrauch des Notrufs" nur nebensächlich für die Verurteilung war.
+Der Artikel[^swatting_urteil] thematisiert kurz aber treffend den Umgang der deutschen Justiz mit Cybermobbing:
+
+> Bayerns Justizminister Winfried Bausback (CSU) hält es jedoch für denkbar, für Taten wie Cybermobbing, Hatespeech oder Sexting neue Straftatbestände zu schaffen. "Das sollten wir schon überlegen."
+
+Rechtlich gibt es kaum Mittel gegen Cybermobbing.
+Die Behörden in Franken versuchen den Hatern per Allgemeinverfügung Einhalt zu gebieten:
+
+> Es wird verboten, eine andere Person oder die Allgemeinheit mit einer Handlung durch a) Lärm b) für Dritte wahrnehmbare obszöne, beleidigende und provozierende Äußerungen unzumutbar zu belästigen, zu behindern, zu gefährden oder zu schädigen.
+> Es wird verboten, dass sich eine größere Anzahl von Menschen (Menschenansammlung-mehrals 12 Personen) auf bewohnten oder unbewohnten Grundstücken sowie auf Straßen, Wegen und Plätzen innerhalb von Alt-schauerberg aufhält.
+
+Bei Verstößen drohen "Verwaltungszwangsmaßnahmen".
+Viel mehr als Platzverweise oder eine Belehrung resultierte jedoch nicht aus den Allgemeinverfügungen -
+die Besuche in Altschauerberg konnte es nicht verhindern.
+Ohne konkrete Straftatbestände können die Behörden nicht gegen Cybermobbing vorgehen.
+
+Umgekehrt wird der Drachenlord immer wieder Ziel von Ermittlungen.
+Bei den Besuchen der Hater wird Rainer Winkler regelmäßig handgreiflich.
+Für die Verwendung von Pfefferspray wird er 2019 zu einer Freiheitsstrafe von sieben Monaten auf Bewährung verurteilt[^pfefferspray].
+
+Im Oktober 2021 hat er sich erneut wegen Körperverletzung vor Gericht zu verantworten[^prozess2021].
+Er wird zu einer Freiheitsstrafe von zwei Jahren ohne Bewährung verurteilt.
+
+> "Dieses Verfahren ist ein trauriges Beispiel dafür, welche Folgen Hass und Mobbing im Internet haben", erklärte die Richterin.
+
+Dagegen legen sowohl er als auch Staatsanwaltschaft Berufung ein.
+Im März 2022 wurde dann das Urteil im Berufungsverfahren mit einer Bewährungsstrafe von einem Jahr deutlich milder gesprochen[^berufung].
+
+<!-- über die Täter -->
+
+[^pfefferspray]: https://www.sueddeutsche.de/bayern/youtube-provokateur-bewaehrungsstrafe-fuer-drachenlord-1.4603466
+[^swatting_urteil]: https://www.sueddeutsche.de/bayern/urteil-dreieinhalb-jahre-haft-nach-falschem-alarm-1.3392950
+[^prozess2021]: https://www.br.de/nachrichten/bayern/amtsgericht-verurteilt-drachenlord-zu-gefaengnisstrafe,SmURSk9
+[^berufung]: https://www.br.de/nachrichten/bayern/urteil-im-drachenlord-prozess-ein-jahr-bewaehrung-fuer-winkler,T0su4eT
+
 <!--
 Swatting: https://drachenchronik.com/date/2016/12/14
-https://www.sueddeutsche.de/bayern/urteil-dreieinhalb-jahre-haft-nach-falschem-alarm-1.3392950
+https://www.br.de/nachrichten/suche?param=Drachenlord
 Mobbing kein Strafbestand
 Platzverweise
 Motivation der Täter
