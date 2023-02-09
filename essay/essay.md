@@ -7,10 +7,11 @@ titlepage: true
 titlepage-background: "background3.pdf"
 titlepage-rule-color: "009669"
 titlepage-logo: "logo_kit_de.pdf"
+footnotes-pretty: true
 toc-own-page: true
 ---
 
-## Einleitung und Definition
+# Einleitung und Definition
 
 Die zunehmende Digitalisierung des Alltags bietet viele Annehmlichkeiten.
 In Schule und Arbeit sind Informationen ubiquitär zugänglich,
@@ -22,7 +23,7 @@ Nach Definition und Darstellung wird der Fall des "Drachenlord" bearbeitet,
 um verschiedene Perspektiven auf das Thema zu beleuchten.
 Abschließend wird die Relevanz von Cybermobbing im schulischen Kontext argumentiert.
 
-### Definition Cybermobbing
+## Definition Cybermobbing
 
 Cybermobbing umfasst die Nutzung von Technologien wie sozialen Medien und Messaging-Apps, um andere zu belästigen, einzuschüchtern und zu schikanieren.
 Dies kann viele Formen annehmen, vom Versenden von Drohungen über die Verbreitung von Gerüchten
@@ -49,7 +50,7 @@ wenn andere Personen anwesend sind - digital hat man oft stets dieses Gefühl.
 Außerdem kann der Bystander-Effekt zu einer Kultur des Schweigens und der Toleranz gegenüber Cybermobbing beitragen.
 Wenn Einzelpersonen sich nicht gegen Online-Mobbing aussprechen, wird die Botschaft vermittelt, dass dies ein akzeptables Verhalten ist.
 
-## Fallbetrachtung: Drachenlord
+# Fallbetrachtung: Drachenlord
 
 <!-- größter Fall weltweit / Deutschland -->
 
@@ -67,7 +68,7 @@ gibt es Einblicke in die rechtliche Bewertung.
 Wie das Thema gesellschaftlich aufgenommen wird,
 lässt sich aus medialer Berichterstattung und Reaktionen darauf beleuchten.
 
-### Anfänge
+## Anfänge
 
 <!-- Beleidugung, Harassment -->
 
@@ -87,7 +88,7 @@ Die Täter bezeichnet Winkler als "Hater" (Hasser, Neider),
 womit diese sich identifizieren und
 sich unter Verhöhnung von Winklers fränkischem Dialekt "Haider" nennen.
 
-### Eskalation
+## Eskalation
 
 <!-- Besuche, Bedrohung, Cybergrooming, Swatting -->
 
@@ -140,7 +141,7 @@ Seine Identiät wurde auch von anderen Personen angenommen, so etwa zu Beginn de
 <!-- Schwester -->
 <!-- Rundfunktlizenz -->
 
-### Rechtliche und gesellschaftliche Reaktionen
+## Rechtliche und gesellschaftliche Reaktionen
 
 Der oben genannte Fall des Swattings wird strafrechtlich verfolgt und ist ein Grund für eine Verurteilung[^swatting_urteil].
 Es ist zu beachten, dass "der Missbrauch des Notrufs" nur nebensächlich für die Verurteilung war.
@@ -187,9 +188,9 @@ Motivation der Täter
 Prozess gegen RW
 -->
 
-## Cybermobbing in der Schule
+# Cybermobbing in der Schule
 
-###
+##
 
 <!--
 Fakten:
@@ -198,7 +199,7 @@ Fakten:
 - Golem Artikel
 -->
 
-### Widersprüche
+## Widersprüche
 
 <!--
 digitale Freizeit
@@ -207,14 +208,14 @@ keine Kontrolle der Medien
 'unsichtbar'
 -->
 
-### Maßnahmen
+## Maßnahmen
 
 <!--
 Workshops, siehe offline-Mobbing
 
 -->
 
-## Fazit
+# Fazit
 
 <!--
   Kompetenzen, Gesellschaft als Fundament
