@@ -107,7 +107,7 @@ So entsteht im Sommer 2015 auch der "Altschauerberg Anzeiger", der digital fast 
 Besonders die zweistellige Zahl an Bewohnern der Ortschaft leidet unter der ungewollten Konsequenzen:
 lautstarke Auseinandersetzungen zwischen Rainer Winkler und seinen Widersachern, Polizeieinsätze oder das angestiegene Verkehrsaufkommen.
 Auch die Behörden sind mit dem Konflikt beschäftigt.
-So rücken Polizeistreifen immer wieder aus und verteilen Platzvweise - sofern die Hater noch nicht in die weitläufige Landschaft geflohen sind.
+So rücken Polizeistreifen immer wieder aus und verteilen Platzverweise - sofern die Hater noch nicht in die weitläufige Landschaft geflohen sind.
 Eine besondere Form des Cybermobbings wird in Deutschland als erstes gegenüber dem Drachenlord angewandt:
 Eine fremde Person löst einen Fehlalarm aus und lässt damit Einsatzkräfte ausrücken;
 diese stürmen das Haus des Opfers.
@@ -172,21 +172,50 @@ Er wird zu einer Freiheitsstrafe von zwei Jahren ohne Bewährung verurteilt.
 Dagegen legen sowohl er als auch Staatsanwaltschaft Berufung ein.
 Im März 2022 wurde dann das Urteil im Berufungsverfahren mit einer Bewährungsstrafe von einem Jahr deutlich milder gesprochen[^berufung].
 
-<!-- über die Täter -->
+In den Gerichtsterminen sind als Zeugen auch Hater anwesend.
+Dabei fällt immer wieder negatives Verhalten auf,
+so auch in einem Bericht[^berufung-hater] aus den eigenen Reihen:
+
+> Wir haben einen Schrei gehört, ein Grölen eher. Und plötzlich waren mindestens 8 Polizisten
+> um den Kronzeugen herumgestanden, der den Oger in den Knast bringen sollte. Er wurde
+> darauf hingewiesen, dass er einen Platzverweis habe, und jetzt gehen solle. Dieser wehrte
+> sich lautstark dagegen, und wurde am Ende mit Gewalt in die Ausnüchterungszelle
+> gemeddelt. Mit unguten Vorahnungen gingen wir wieder rein, Handy und Tasche wieder
+> abgebend und damit wieder von der Außenwelt abgeschnitten, und warteten darauf, dass
+> die Pause rumgeht.
+
+Der "Kronzeuge" ist ein Hater, der von Rainer Winkler körperlich verletzt wurde.
+Er erschien stark alkoholisiert vor Gericht, erhielt dadurch einen Platzverweis und wurde schlussendlich verhaftet.
+In dem Bericht erkennt man gut die Perspektive der Hater:
+Ihr erklärtes Ziel ist es, den Drachenlord in den "Knast" zu bringen.
+Durch die Prozesse erhalten die Hater auch Profile, die eine gewisse Diversität aufzeigen:
+So sind neben dem oben genannten Internetbetrüger[^swatting_urteil] auch Medizinstudenten unter den Hatern.
+Ein Palliativpfleger tritt als Zeuge auf und gibt als Motivation an[^berufung-hater]:
+
+> Schanzenstürmer sagte darauf, dass es verschiedene Gründe gibt, ihn zu besuchen zu wollen.
+> Ihm ging es primär um die zerfallene Schanze, kleine Pause von ihm: „ähm, Ruine“.
+> In Zeiten von akuter Wohnungsnot kann es einfach nicht angehen, dass eine einzelne Person
+> ein solch schönes Grundstück einfach durch Faulheit und Unfähigkeit vergammeln lässt. Der
+> Zeuge gab dem Richter zudem einen kleinen Einblick in die Faszination, die das Drachengame
+> auf viele Hater ausübe. Es habe einen „Seriencharakter“, vergleichbar mit der Serie „Die
+> Flodders“. Auch sei die Community kreativ. „Von so ziemlich jedem deutschen Lied gibt’s eine
+> auf den Drachenlord umgemünzte Version.“ Der Drachenlord liefere „immer wieder neue
+> Superlative“ – immer wenn man denke, es könne nicht mehr absurder werden, dann liefere
+> Winkler „wieder einen neuen Kracher“.
+
+Der Fall des Drachenlord zeigt die Einseitigkeit des Cybermobbing auf,
+wenngleich einige Besonderheiten vorliegen: 
+Rainer Winkler ist eine Person des öffentlichen Lebens,
+die Täterschaft ist unüberschaubar groß
+und es gibt eine enorme Zahl an Zuschauern.
+Im folgenden Kapitel wird Cybermobbing im Kontext von Jugendlichen und Schule betrachtet.
 
 [^pfefferspray]: https://www.sueddeutsche.de/bayern/youtube-provokateur-bewaehrungsstrafe-fuer-drachenlord-1.4603466
 [^swatting_urteil]: https://www.sueddeutsche.de/bayern/urteil-dreieinhalb-jahre-haft-nach-falschem-alarm-1.3392950
 [^prozess2021]: https://www.br.de/nachrichten/bayern/amtsgericht-verurteilt-drachenlord-zu-gefaengnisstrafe,SmURSk9
 [^berufung]: https://www.br.de/nachrichten/bayern/urteil-im-drachenlord-prozess-ein-jahr-bewaehrung-fuer-winkler,T0su4eT
+[^berufung-hater]: https://www.docdroid.net/Bl2laqk/gerichtsbericht-berufung-pdf
 
-<!--
-Swatting: https://drachenchronik.com/date/2016/12/14
-https://www.br.de/nachrichten/suche?param=Drachenlord
-Mobbing kein Strafbestand
-Platzverweise
-Motivation der Täter
-Prozess gegen RW
--->
 
 # Cybermobbing in der Schule
 
