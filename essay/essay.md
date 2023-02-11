@@ -219,7 +219,55 @@ Im folgenden Kapitel wird Cybermobbing im Kontext von Jugendlichen und Schule be
 
 # Cybermobbing in der Schule
 
-##
+Schule ist eine Plattform für menschlichen Austausch.
+Oft wird dieser Austausch digital fortgeführt, die Grundlage für Cybermobbing ist gegeben.
+
+In den folgenden Abschnitten gibt es zunächst einen Überblick über den Bestand von Cybermobbing an Schulen,
+Herausforderungen bei der Behandlung im schulischen Kontext
+und mögliche Maßnahmen zur Bekämpfung von Cybermobbing.
+
+## Verbreitung und Studien
+
+Die Cyberlife-Studie untersucht regelmäßig Cybermobbing 
+bei Kindern und Jugendlichen im Alter von acht bis 21 Jahren.
+Die Studie entsteht in Zusammenarbeit der Techniker Krankenkasse,
+dem in Karlsruhe ansässigen Bündnis gegen Cybermobbing e.V.
+und der Universität Zürich.
+Im Jahr 2022 wurde die aktuellste Fassung als Cyberlife IV[^cyberlife_iv] veröffentlicht.
+
+Es geben 16,7% der Schüler:innen an, von Cybermobbing betroffen gewesen zu sein;
+5,8% haben schon mal Cybermobbing betrieben.
+Die häufigsten Erscheinungsformen sind dabei Beleidigung, Ausgrenzung und Verleumdung.
+Seltener sind Verbreitung privaten (peinlichen) Bildmaterials
+sowie Aneignung der digitalen Identität. 
+Darüber hinaus wurde festgestellt, dass jede fünfte Täter:in bereits selbst von Cybermobbing betroffen war.
+Die Autor:innen legen nahe, dass Opfer somit ein erhöhtes Risiko haben, selbst Täter zu werden.
+
+Die befragten Täter:innen geben als Motive an:
+
+- die betroffene Person hat es verdient (57%)
+- persönlicher Konflikt mit der betroffenen Person (46%)
+- als Rache weil ich / andere von dieser Person gemobbt wurden (37% / 29%)
+- zum Spaß / aus Langeweile (33% / 23%)
+- es ist cool (13%)
+
+Insbesondere die beiden zu letzt aufgezählten Motive sind stark fragwürdig.
+In der folgenden Abbildung sind die persönlichen Auswirkungen für Betroffene graphisch dargestellt.
+24% der Befragten geben an, durch Cybermobbing Suizidgedanken zu haben.
+Diese extreme Konsequenz ist alarmierierend.
+
+![Persönliche Auswirkungen von Cybermobbing (aus [^cyberlife_iv])](auswirkungen.png)
+
+Durch die Allgegenwart des Internets im Leben der Schüler:innen gibt es für Betroffene von Cybermobbing keine Rückzugsorte.
+Der Vorschlag, als Betroffene keine digitalen Medien zu nutzen, kann Effekte des Cybermobbing verstärken:
+so wird die Ausgrenzung intensiviert und Täter:innen wird der Cyberraum überlassen.
+Dies stellt einen wichtigen Unterschied zum klassischen Mobbing dar,
+wo Jugendliche außerhalb des Kontexts Schule den Problemen entfliehen können.
+Man kann durch die Ubiquität der digitalen Medien davon ausgehen,
+dass auch bei klassichem Mobbing oft Cybermobbing einhergeht
+und somit eine höhere Dunkelziffer für Fälle von Cybermobbing vorliegt.
+
+[^cyberlife_iv]: https://www.tk.de/presse/themen/praevention/medienkompetenz/studie-cyberlife-2022-2135612
 
 <!--
 Fakten:
@@ -234,6 +282,7 @@ Fakten:
 digitale Freizeit
 Kompetenz von Lehrkräften
 keine Kontrolle der Medien
+verwendete Medien
 'unsichtbar'
 -->
 
@@ -241,6 +290,10 @@ keine Kontrolle der Medien
 
 <!--
 Workshops, siehe offline-Mobbing
+jüngere Schüler -> schlechtere Motive
+Schulformen
+Abb. 89: an wen wird sich gewandt
+Abb. 90: gewünschte Unterstützung
 
 -->
 
