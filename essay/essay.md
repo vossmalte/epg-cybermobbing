@@ -216,6 +216,17 @@ Ein Palliativpfleger tritt als Zeuge auf und gibt als Motivation an[^berufung-ha
 > Superlative“ – immer wenn man denke, es könne nicht mehr absurder werden, dann liefere
 > Winkler „wieder einen neuen Kracher“.
 
+Seit der Bewährungsstrafe lebt Rainer Winkler nicht mehr in Altschauerberg. 
+Nachdem im Jahr 2021 sein Wohnhaus von der Gemeinde gekauft und Anfang 2022 aberissen wurde,
+tourte Winkler mit einem Auto durch Deutschland.
+Immer wieder gab es Probleme mit Hatern.
+Im August 2022 suchte er die Hilfe seiner Heimatgemeinde Emskirchen auf,
+um eine Wohnung zu finden.
+Da er ein schwer zu vermitteltender Mieter ist,
+kann die Gemeinde nicht mehr als beraten.
+Rainer Winkler fühlt sich im Stich gelassen und wirft dem Staat Ignoranz vor,
+was durch das Innenministerium zurückgewiesen wird[^keine_wohnung].
+
 Der Fall des Drachenlord zeigt die Einseitigkeit des Cybermobbing auf,
 wenngleich einige Besonderheiten vorliegen: 
 Rainer Winkler ist eine Person des öffentlichen Lebens,
@@ -228,6 +239,7 @@ Im folgenden Kapitel wird Cybermobbing im Kontext von Jugendlichen und Schule be
 [^prozess2021]: https://www.br.de/nachrichten/bayern/amtsgericht-verurteilt-drachenlord-zu-gefaengnisstrafe,SmURSk9
 [^berufung]: https://www.br.de/nachrichten/bayern/urteil-im-drachenlord-prozess-ein-jahr-bewaehrung-fuer-winkler,T0su4eT
 [^berufung-hater]: https://www.docdroid.net/Bl2laqk/gerichtsbericht-berufung-pdf
+[^keine_wohnung]: https://www.focus.de/panorama/obdachlos-isoliert-verfolgt-der-drachenlord-die-internet-trolle-und-eine-bittere-erkenntnis_id_181953247.html
 
 
 # Cybermobbing in der Schule
