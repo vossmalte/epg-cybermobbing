@@ -156,7 +156,7 @@ Seine Identiät wurde auch von anderen Personen angenommen, so etwa zu Beginn de
 
 Der oben genannte Fall des Swattings wird strafrechtlich verfolgt und ist ein Grund für eine Verurteilung[^swatting_urteil].
 Es ist zu beachten, dass "der Missbrauch des Notrufs" nur nebensächlich für die Verurteilung war.
-Der Artikel[^swatting_urteil] thematisiert kurz aber treffend den Umgang der deutschen Justiz mit Cybermobbing:
+Der Artikel thematisiert kurz aber treffend den Umgang der deutschen Justiz mit Cybermobbing:
 
 > Bayerns Justizminister Winfried Bausback (CSU) hält es jedoch für denkbar, für Taten wie Cybermobbing, Hatespeech oder Sexting neue Straftatbestände zu schaffen. "Das sollten wir schon überlegen."
 
@@ -279,7 +279,7 @@ In der folgenden Abbildung sind die persönlichen Auswirkungen für Betroffene g
 24% der Befragten geben an, durch Cybermobbing Suizidgedanken zu haben.
 Diese extreme Konsequenz ist alarmierierend.
 
-![Persönliche Auswirkungen von Cybermobbing (aus [^cyberlife_iv])](auswirkungen.png)
+![Persönliche Auswirkungen von Cybermobbing. Quelle: Cyberlife IV](auswirkungen.png)
 
 Durch die Allgegenwart des Internets im Leben der Schüler:innen gibt es für Betroffene von Cybermobbing keine Rückzugsorte.
 Der Vorschlag, als Betroffene keine digitalen Medien zu nutzen, kann Effekte des Cybermobbing verstärken:
@@ -364,7 +364,7 @@ Sind Freunde und Familie für das Opfer keine gewünschte Unterstützung,
 so kann es sinnvoll sein, Unterstützung von extern zu suchen.
 Es gibt Online- und Telefonberatungsstellen, beispielsweise die _Nummer gegen Kummer_,
 aber auch Vertrauenslehrer:innen oder der schulpsychologische Dienst können helfen.
-Die Angriffe zu dokumentieren ist hilfreich, um weitere Hilfe zu vereinfachen[^Dokumentieren].
+Die Angriffe zu dokumentieren ist hilfreich, um weitere Hilfe zu vereinfachen.
 Damit ist es möglich, Täter:innen zu stellen und objektiv eine Bestrafung durchzuführen.
 Weiterhin bieten die meisten Plattformen Optionen zum Melden von missbräuchlichen Inhalten;
 die Betreiber können die Beleidigungen und Falschinformationen löschen.
