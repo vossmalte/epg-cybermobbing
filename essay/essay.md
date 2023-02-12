@@ -102,6 +102,19 @@ Dabei ist zu beachten, dass die Zahl der lesenden Teilnehmer eines digitalen For
 
 Im Jahr 2015 mehren sich die Besuche im Wohnort des Drachenlord;
 dabei schrecken die Hater nicht vor Sachbeschädigungen wie Grafitti oder eingeworfenen Fenstern zurück.
+
+![Die "Drachenschanze", der Wohnort von Rainer Winkler.
+Seit 2014 kommen fast täglich Hater.
+Sie provozieren den Drachenlord verbal oder durch Sachbeschädigung.
+Das Bild zeigt das Wohnhaus, links die Einfahrt auf den Hof im Jahr 2022.
+Einige Fenster sind eingeworfen, Farbe und Eier haben der Hausfassade zugesetzt.
+Die Einfahrt ist von einem behelfsmäßig erreichteten Zaun blockiert,
+welcher mit viel Grafitti beschmiert wurde.
+Manchmal eskaliert die Situation und aus Wortgefechten werden Handgreiflichkeiten.
+Das Grundstück wurde von der Gemeinde gekauft und das baufällige Haus im Jahr 2022 aberissen.
+Bildquelle: [Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/altschauerberg-drachenlord-haus-abriss-mittelfranken-1.5549541)
+](schanze_small.png)
+
 Die Eindrücke der Besuche werden per Fotos, Videos und Text online festgehalten.
 So entsteht im Sommer 2015 auch der "Altschauerberg Anzeiger", der digital fast täglich zum Drachenlord berichtet.
 Besonders die zweistellige Zahl an Bewohnern der Ortschaft leidet unter der ungewollten Konsequenzen:
