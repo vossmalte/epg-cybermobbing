@@ -18,12 +18,12 @@ In Schule und Arbeit sind Informationen ubiquitär zugänglich,
 Mitmenschen sind stets erreichbar
 und durch digitale Plattformen ist Kommunikation vieler Personen einfach abzuwickeln.
 Doch diese Vorteile digitaler Kommunikation beflügeln auch negative Prozesse.
-Dieses Essay betrachtet das Phänomen _Cybermobbing_.
+Dieses Dossier betrachtet das Phänomen _Cybermobbing_.
 Nach Definition und Darstellung wird der Fall des "Drachenlord" bearbeitet,
 um verschiedene Perspektiven auf das Thema zu beleuchten.
-Abschließend wird die Relevanz von Cybermobbing im schulischen Kontext argumentiert.
+Abschließend wird die Relevanz und mögliche Bearbeitung von Cybermobbing im schulischen Kontext diskutiert.
 
-Cybermobbing umfasst die Nutzung von Technologien wie sozialen Medien und Messaging-Apps, um andere zu belästigen, einzuschüchtern und zu schikanieren.
+Cybermobbing umfasst die Nutzung von Technologien wie sozialen Medien und Messaging-Apps, um andere Menschen zu belästigen, einzuschüchtern und zu schikanieren.
 Dies kann viele Formen annehmen, vom Versenden von Drohungen über die Verbreitung von Gerüchten
 bis hin zum Teilen von peinlichen Fotos oder Videos ohne die Zustimmung des Opfers;
 im folgenden Kapitel werden davon einige exemplarisch dargestellt.
@@ -40,11 +40,11 @@ Da viele Formen von Cybermobbing (z.B. happy slapping) bewusst mit einem Publiku
 ist die Rolle des Bystanders sehr wichtig.
 Das bloße Ansehen eines Vorfalls gibt dem Täter eine positive Rückmeldung,
 da im Internet mit Reichweite oft Popularität assoziert wird.
-Auf der anderen Seite ist das Wegsehen hier schwerwiegender,
+Auf der anderen Seite ist das Nicht-Eingreifen hier häufiger,
 da der Bystander-Effekt digital verstärkt wird;
 der Bystander-Effekt ist ein psychologisches Phänomen, das besagt,
 dass Personen weniger geneigt sind, in eine Situation einzugreifen,
-wenn andere Personen anwesend sind - digital hat man oft stets dieses Gefühl.
+wenn andere Personen anwesend sind - digital hat man stets dieses Gefühl.
 Außerdem kann der Bystander-Effekt zu einer Kultur des Schweigens und der Toleranz gegenüber Cybermobbing beitragen.
 Wenn Einzelpersonen sich nicht gegen Online-Mobbing aussprechen, wird die Botschaft vermittelt, dass dies ein akzeptables Verhalten ist.
 
@@ -53,18 +53,18 @@ Wenn Einzelpersonen sich nicht gegen Online-Mobbing aussprechen, wird die Botsch
 <!-- größter Fall weltweit / Deutschland -->
 
 Der Fall des Drachenlord sorgt seit einigen Jahren für Aufsehen.
-In diesem Kapitel beleuchten wir verschiedene Aspekte um diesen - wohl größten deutschen -
+In diesem Kapitel beleuchten wir verschiedene Aspekte um diesen -- wohl größten deutschen --
 Fall von Cybermobbing.
 Dabei ist Rainer Winkler (im Internet unter dem Pseudonym Drachenlord bekannt) das Opfer und
-steht einer großen Zahl an Tätern gegenüber.
-Durch das Internet gibt es eine große Zahl an Bystandern,
+steht einer großen Zahl an Täter:innen gegenüber.
+Durch das Internet gibt es eine enorme Zahl an Bystandern,
 die jedoch vielmehr als Schaulustige auftreten.
 In den folgenden chronologischen Abschnitten betrachten wir diverse Situationen,
 um verschiedene Formen darzulegen und somit die Vielfältigkeit von Cybermobbing zu betonen.
 Da der Fall auch juristisch behandelt wurde,
 gibt es Einblicke in die rechtliche Bewertung.
-Wie das Thema gesellschaftlich aufgenommen wird,
-lässt sich aus medialer Berichterstattung und Reaktionen darauf beleuchten.
+Mit den Inhalten der Täter:innen kann das Motiv für Cybermobbing ergründet werden
+und deren Perspektive eingenommen werden.
 
 ## Anfänge
 
@@ -72,17 +72,17 @@ lässt sich aus medialer Berichterstattung und Reaktionen darauf beleuchten.
 
 Rainer Winkler beginnt Anfang der 2010er Jahre Videos aus seinem Alltag
 im Internet frei zugänglich hochzuladen;
-bald folgend Livestreams.
+bald folgen Livestreams.
 Dabei hat er verschiedene Formate,
-allen voran steht das "Let's play" - dabei zeigt er, wie er Videospiele spielt und kommentiert das Geschehen.
+allen voran steht das "Let's play" -- dabei zeigt er, wie er Videospiele spielt und kommentiert das Geschehen.
 Bei Livestreams gibt es eine Interaktion mit dem Publikum,
 das ihm per Text Nachrichten senden kann.
 Dadurch erhält Rainer Winkler auch beleidigende Botschaften;
 dies ist eine fundamentale Stufe von Cybermobbing.
-Auf die Beleidigungen reagiert Winkler oft stark,
+Auf die Beleidigungen antwortet Winkler oft erbost,
 beleidigt zurück, wird aggressiv.
 Dieses reaktive Verhalten wird in der folgenden Zeit stets ausgenutzt.
-Die Täter bezeichnet Winkler als "Hater" (Hasser, Neider),
+Die Täter:innen bezeichnet Winkler als "Hater" (Hasser, Neider),
 womit diese sich identifizieren und
 sich unter Verhöhnung von Winklers fränkischem Dialekt "Haider" nennen.
 
@@ -91,10 +91,10 @@ sich unter Verhöhnung von Winklers fränkischem Dialekt "Haider" nennen.
 <!-- Besuche, Bedrohung, Cybergrooming, Swatting -->
 
 Am 2. Februar 2014 gibt Winkler seine Adresse preis und ruft die Hater dazu auf,
-sich im echten Leben mit ihm auseinander zu setzen[^pruegel] - und droht ihnen mit einer "Tracht Prügel".
+sich im echten Leben mit ihm auseinander zu setzen[^pruegel] -- und droht ihnen mit einer "Tracht Prügel".
 Er möchte sich damit für seine Schwester rächen, die einen Anruf von einer Computerstimme erhalten hat.
 Erste Hater kommen aber erst am Ende des Jahres[^erster_besuch].
-Im Internet ist der Drachenlord auch Thema - in einem Forum für "Humor", das 2020 abeschaltet wurde.
+Im Internet ist der Drachenlord auch Thema: in einem Forum für "Humor", das 2020 abeschaltet wurde.
 Hier entstehen über 300000 auf ihn bezogene Beiträge im Verlauf der nächsten Jahre.
 Dabei ist zu beachten, dass die Zahl der lesenden Teilnehmer eines digitalen Forums weit größer ist als die der geschriebenen Beiträge[^lurker].
 
@@ -128,8 +128,8 @@ Im Jargon nennt man dies Swatting[^swatting]
 Die Hater wenden diverse Methoden des Cybermobbings gegen den Drachenlord an:
 (Cyber-)Grooming ist das Anbahnen einer romantischen Beziehung mit der Absicht,
 dem Opfer vertrauliche Informationen zu entlocken oder diesen bloß zu stellen.
-So stellt der Drachenlord - ohne die andere Person im realen Leben zu kennen - in einem Livestream[^mettwoch] mit über 4000 Zuschauern einen Heiratsantrag.
-Darauf antwortet die 'Partnerin':
+So stellt der Drachenlord -- ohne die andere Person im realen Leben zu kennen -- in einem Livestream[^mettwoch] mit über 4000 Zuschauern einen Heiratsantrag.
+Darauf antwortet die "Partnerin":
 
 > "Also Rainer, du bist echt ein ganz besonderer Mensch... und mit besonders meine ich: Du bist der fetteste, dümmste Idiot, den ich je in meinem ganzen Leben gesehen habe!"
 
@@ -140,7 +140,7 @@ Eine weitere Facette des Cybermobbings wiederholt sich regelmäßig:
 Nach dem Attentat von Kongsberg berichten diverse Medien von 'Rainer Winklarson' als Täter[^winklarson].
 Dabei sind die Medien einem Tweet auf den Leim gegangen, der Bilder des Drachenlord beim Bogenschießen zeigt.
 So wurde Rainer Winkler als Attentäter dargestellt.
-Seine Identiät wurde auch von anderen Personen angenommen, so etwa zu Beginn des Jahres 2023[^bild-interview] in einem Zeitungsinterview.
+Seine Identiät wurde auch von anderen Personen angenommen, so etwa zu Beginn des Jahres 2023 in einem Zeitungsinterview[^bild-interview].
 
 [^pruegel]: https://drachenchronik.com/video/tg5bRF76Xnk
 [^erster_besuch]: https://drachenchronik.com/date/2014/12/20
@@ -164,12 +164,12 @@ Rechtlich gibt es kaum Mittel gegen Cybermobbing.
 Die Behörden in Franken versuchen den Hatern per Allgemeinverfügung Einhalt zu gebieten:
 
 > Es wird verboten, eine andere Person oder die Allgemeinheit mit einer Handlung durch a) Lärm b) für Dritte wahrnehmbare obszöne, beleidigende und provozierende Äußerungen unzumutbar zu belästigen, zu behindern, zu gefährden oder zu schädigen.
-> Es wird verboten, dass sich eine größere Anzahl von Menschen (Menschenansammlung-mehrals 12 Personen) auf bewohnten oder unbewohnten Grundstücken sowie auf Straßen, Wegen und Plätzen innerhalb von Alt-schauerberg aufhält.
+> Es wird verboten, dass sich eine größere Anzahl von Menschen (Menschenansammlung - mehr als 12 Personen) auf bewohnten oder unbewohnten Grundstücken sowie auf Straßen, Wegen und Plätzen innerhalb von Altschauerberg aufhält.
 
 Bei Verstößen drohen "Verwaltungszwangsmaßnahmen".
-Viel mehr als Platzverweise oder eine Belehrung resultierte jedoch nicht aus den Allgemeinverfügungen -
+Viel mehr als Platzverweise oder eine Belehrung resultierte jedoch nicht aus den Allgemeinverfügungen --
 die Besuche in Altschauerberg konnte es nicht verhindern.
-Ohne konkrete Straftatbestände können die Behörden nicht gegen Cybermobbing vorgehen.
+Ohne konkrete Straftatbestände können die Behörden nicht gegen (Cyber-)Mobbing vorgehen.
 
 Umgekehrt wird der Drachenlord immer wieder Ziel von Ermittlungen.
 Bei den Besuchen der Hater wird Rainer Winkler regelmäßig handgreiflich.
@@ -200,7 +200,7 @@ Er erschien stark alkoholisiert vor Gericht, erhielt dadurch einen Platzverweis 
 In dem Bericht erkennt man gut die Perspektive der Hater:
 Ihr erklärtes Ziel ist es, den Drachenlord in den "Knast" zu bringen.
 Durch die Prozesse erhalten die Hater auch Profile, die eine gewisse Diversität aufzeigen:
-So sind neben dem oben genannten Internetbetrüger[^swatting_urteil] auch Medizinstudenten unter den Hatern.
+So sind neben dem oben genannten Internetbetrüger auch Medizinstudenten unter den Hatern.
 Ein Palliativpfleger tritt als Zeuge auf und gibt als Motivation an[^berufung-hater]:
 
 > Schanzenstürmer sagte darauf, dass es verschiedene Gründe gibt, ihn zu besuchen zu wollen.
@@ -230,7 +230,7 @@ wenngleich einige Besonderheiten vorliegen:
 Rainer Winkler ist eine Person des öffentlichen Lebens,
 die Täterschaft ist unüberschaubar groß
 und es gibt eine enorme Zahl an Zuschauern.
-Im folgenden Kapitel wird Cybermobbing im Kontext von Jugendlichen und Schule betrachtet.
+Im folgenden Kapitel wird Cybermobbing im Kontext von Kindern, Jugendlichen und Schule betrachtet.
 
 [^pfefferspray]: https://www.sueddeutsche.de/bayern/youtube-provokateur-bewaehrungsstrafe-fuer-drachenlord-1.4603466
 [^swatting_urteil]: https://www.sueddeutsche.de/bayern/urteil-dreieinhalb-jahre-haft-nach-falschem-alarm-1.3392950
@@ -243,7 +243,7 @@ Im folgenden Kapitel wird Cybermobbing im Kontext von Jugendlichen und Schule be
 # Cybermobbing in der Schule
 
 Schule ist eine Plattform für menschlichen Austausch.
-Oft wird dieser Austausch digital fortgeführt, die Grundlage für Cybermobbing ist gegeben.
+Dieser Austausch wird digital fortgeführt, die Grundlage für Cybermobbing ist gegeben.
 
 In den folgenden Abschnitten gibt es zunächst einen Überblick über den Bestand von Cybermobbing an Schulen,
 Herausforderungen bei der Behandlung im schulischen Kontext
@@ -314,7 +314,7 @@ jedoch ist Schule als Plattform des sozialen Austauschs für viele Jugendliche D
 Lehrkräfte sind somit mit dieser Problematik konfrontiert,
 wenngleich ihr Handlungsspielraum begrenzt ist.
 Dieser Abschnitt beschreibt einige Herausforderungen im Umgang mit Cyberkriminalität für Lehrkräfte.
-Der nächste Abschnitt zeigt exemplarisch mögliche Herangehensweise zur Thematisierung, Behandlung und Bekämpfung von Cyberkriminalität und insbesondere Cybermobbing.
+Der darauf folgende Abschnitt zeigt exemplarisch mögliche Herangehensweisen zur Thematisierung, Behandlung und Bekämpfung von Cyberkriminalität und insbesondere Cybermobbing.
 
 Viele Lehrkräfte in Deutschland sehen bei sich keine guten digitalen Kompetenzen[^digi_kompetenz].
 Gerade ältere Lehrer:innen sind überfordert, wenn es um digitale Medien geht.
@@ -362,17 +362,19 @@ Liegt ein akuter Fall vor, so ist zunächst die soziale Unterstützung der betro
 Dabei ist die Individualität der Person und des Falles zu berücksichtigen.
 Sind Freunde und Familie für das Opfer keine gewünschte Unterstützung,
 so kann es sinnvoll sein, Unterstützung von extern zu suchen.
-Es gibt Online- und Telefonberatungsstellen, beispielsweise die _Nummer gegen Kummer_,
+Es gibt Online- und Telefonberatungsstellen, beispielsweise die _Nummer gegen Kummer_[^nummerggkummer],
 aber auch Vertrauenslehrer:innen oder der schulpsychologische Dienst können helfen.
-Die Angriffe zu dokumentieren ist hilfreich, um weitere Hilfe zu vereinfachen.
+Die Angriffe zu dokumentieren ist sinnvoll, um weitere Hilfe zu vereinfachen.
 Damit ist es möglich, Täter:innen zu stellen und objektiv eine Bestrafung durchzuführen.
 Weiterhin bieten die meisten Plattformen Optionen zum Melden von missbräuchlichen Inhalten;
 die Betreiber können die Beleidigungen und Falschinformationen löschen.
 Bei akuten Fällen ist vor allem die Unterstützung des Opfers wichtig,
-für mehr Informationen wird auf diesen Link[^Dokumentieren] verwiesen.
+für mehr Informationen zur Intervention wird auf diesen Link[^Dokumentieren] verwiesen.
+
+[^nummerggkummer]: https://www.nummergegenkummer.de/
 
 Zur Vorbeugung von Cybermobbing eignen sich Projekte und Programme.
-Als ganzheitliches Programm für Schulen ist Olweus[^Olweus] nenneswert.
+Als ganzheitliches Programm für Schulen ist Olweus[^Olweus] nennenswert.
 Auch wenn dieses ursprünglich ein Präventionsprogramm für klassisches Mobbing ist,
 sind die Inhalte auch für Cybermobbing relevant:
 "Dabei wird eine Steigerung ihrer sozialen Kompetenz angestrebt, sowie eine Kompetenzsteigerung der Lehrkräfte im Umgang mit Mobbing und antisozialem Verhalten. Weiterhin soll eine Verbesserung des Schulklimas und des Zusammenhalts erreicht werden."
@@ -386,17 +388,17 @@ Selbstreflexion im Umgang mit sozialen Netzwerken und weitere.
 Das ausgearbeitete Material ermöglicht die einfache Durchführung eines Projektes.
 
 Auch strukturell können Schulen Maßnahmen umsetzen; 
-die Cyberlife-Studie[^cyberlife_iv] hält fest, dass eine solche Strukturen oft fehlen.
+die Cyberlife-Studie[^cyberlife_iv] hält fest, dass solche Strukturen oft fehlen.
 Mögliche Maßnahmen sind: ein Anti-Mobbing-Beauftragte:r, eine anonyme Meldestelle oder auch nur Hinweise oder Links zu Online- oder Telefonberatungsstellen.
 
 Da Cybermobbing sowohl zeitlich als auch räumlich nicht an die Schule gebunden ist,
 ist die Zusammenarbeit mit Eltern wichtig.
-Dies zeigt sich in Abbildung 3.
-Für die Hälfte der betroffenen sind Eltern eine Anlaufstelle,
+Dies zeigt sich in Abbildung 3:
+für die Hälfte der betroffenen sind Eltern eine Anlaufstelle,
 um Cybermobbing aufzuarbeiten.
 Darüber hinaus wünschen sich viele Lehrkräfte laut der Cyberlife-Studie[^cyberlife_iv]
 mehr Unterstützung von Eltern bei der Thematik Cybermobbing.
-Hier ist hervorzuheben, dass Informationsmaterial und Schulungen lediglich den Schüler:innen bereitgestellt werden.
+Hier ist hervorzuheben, dass Informationsmaterial und Schulungen meist nur den Schüler:innen bereitgestellt werden.
 Die Eltern sollten dabei berücksichtigt werden und mit Informationen versorgt werden.
 
 ![Mit wem arbeiten Schüler:innen Cybermobbing auf? Quelle: Cyberlife IV](Ansprechpartner.png)
