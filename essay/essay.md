@@ -21,7 +21,7 @@ Doch diese Vorteile digitaler Kommunikation beflügeln auch negative Prozesse.
 Dieses Dossier betrachtet das Phänomen _Cybermobbing_.
 Nach Definition und Darstellung wird der Fall des "Drachenlord" bearbeitet,
 um verschiedene Perspektiven auf das Thema zu beleuchten.
-Abschließend wird die Relevanz und mögliche Bearbeitung von Cybermobbing im schulischen Kontext diskutiert.
+Abschließend wird die Dringlichkeit und mögliche Bearbeitung von Cybermobbing im schulischen Kontext diskutiert.
 
 Cybermobbing umfasst die Nutzung von Technologien wie sozialen Medien und Messaging-Apps, um andere Menschen zu belästigen, einzuschüchtern und zu schikanieren.
 Dies kann viele Formen annehmen, vom Versenden von Drohungen über die Verbreitung von Gerüchten
@@ -62,8 +62,8 @@ die jedoch vielmehr als Schaulustige auftreten.
 In den folgenden chronologischen Abschnitten betrachten wir diverse Situationen,
 um verschiedene Formen darzulegen und somit die Vielfältigkeit von Cybermobbing zu betonen.
 Da der Fall auch juristisch behandelt wurde,
-gibt es Einblicke in die rechtliche Bewertung.
-Mit den Inhalten der Täter:innen kann das Motiv für Cybermobbing ergründet werden
+erhält man Einblick in die rechtliche Bewertung.
+Mit Dokumenten der Täter:innen kann das Motiv für Cybermobbing ergründet
 und deren Perspektive eingenommen werden.
 
 ## Anfänge
@@ -82,24 +82,13 @@ dies ist eine fundamentale Stufe von Cybermobbing.
 Auf die Beleidigungen antwortet Winkler oft erbost,
 beleidigt zurück, wird aggressiv.
 Dieses reaktive Verhalten wird in der folgenden Zeit stets ausgenutzt.
-Die Täter:innen bezeichnet Winkler als "Hater" (Hasser, Neider),
+Die Täter:innen bezeichnet Winkler als "Hater",
 womit diese sich identifizieren und
 sich unter Verhöhnung von Winklers fränkischem Dialekt "Haider" nennen.
 
 ## Eskalation
 
 <!-- Besuche, Bedrohung, Cybergrooming, Swatting -->
-
-Am 2. Februar 2014 gibt Winkler seine Adresse preis und ruft die Hater dazu auf,
-sich im echten Leben mit ihm auseinander zu setzen[^pruegel] -- und droht ihnen mit einer "Tracht Prügel".
-Er möchte sich damit für seine Schwester rächen, die einen Anruf von einer Computerstimme erhalten hat.
-Erste Hater kommen aber erst am Ende des Jahres[^erster_besuch].
-Im Internet ist der Drachenlord auch Thema: in einem Forum für "Humor", das 2020 abeschaltet wurde.
-Hier entstehen über 300000 auf ihn bezogene Beiträge im Verlauf der nächsten Jahre.
-Dabei ist zu beachten, dass die Zahl der lesenden Teilnehmer eines digitalen Forums weit größer ist als die der geschriebenen Beiträge[^lurker].
-
-Im Jahr 2015 mehren sich die Besuche im Wohnort des Drachenlord;
-dabei schrecken die Hater nicht vor Sachbeschädigungen wie Grafitti oder eingeworfenen Fenstern zurück.
 
 ![Die "Drachenschanze", der Wohnort von Rainer Winkler.
 Seit 2014 kommen fast täglich Hater.
@@ -113,9 +102,20 @@ Das Grundstück wurde von der Gemeinde gekauft und das baufällige Haus im Jahr 
 Bildquelle: [Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/altschauerberg-drachenlord-haus-abriss-mittelfranken-1.5549541)
 ](schanze_small.png)
 
+Am 2. Februar 2014 gibt Winkler seine Adresse preis und ruft die Hater dazu auf,
+sich im echten Leben mit ihm auseinander zu setzen[^pruegel] -- und droht ihnen mit einer "Tracht Prügel".
+Er möchte sich damit für seine Schwester rächen, die einen Anruf von einer Computerstimme erhalten hat.
+Erste Hater kommen aber erst am Ende des Jahres[^erster_besuch] zu seinem Wohnort.
+Im Internet ist der Drachenlord auch Thema: in einem Forum für "Humor", das 2020 abeschaltet wurde.
+Hier entstehen über 300000 auf ihn bezogene Beiträge im Verlauf der nächsten Jahre.
+Dabei ist zu beachten, dass die Zahl der lesenden Teilnehmer eines digitalen Forums weit größer ist als die der geschriebenen Beiträge[^lurker].
+
+Im Jahr 2015 mehren sich die Besuche im Wohnort des Drachenlord;
+dabei schrecken die Hater nicht vor Sachbeschädigungen wie Grafitti oder eingeworfenen Fenstern zurück.
+
 Die Eindrücke der Besuche werden per Fotos, Videos und Text online festgehalten.
-So entsteht im Sommer 2015 auch der "Altschauerberg Anzeiger", der digital fast täglich zum Drachenlord berichtet.
-Besonders die zweistellige Zahl an Bewohnern der Ortschaft leidet unter der ungewollten Konsequenzen:
+So entsteht im Sommer 2015 auch die Webseite "Altschauerberg Anzeiger", auf der fast täglich zum Drachenlord berichtet wird.
+Besonders die wenigen Bewohnern der Ortschaft leidet unter der ungewollten Konsequenzen:
 lautstarke Auseinandersetzungen zwischen Rainer Winkler und seinen Widersachern, Polizeieinsätze oder das angestiegene Verkehrsaufkommen.
 Auch die Behörden sind mit dem Konflikt beschäftigt.
 So rücken Polizeistreifen immer wieder aus und verteilen Platzverweise - sofern die Hater noch nicht in die weitläufige Landschaft geflohen sind.
@@ -125,8 +125,8 @@ diese stürmen das Haus des Opfers.
 Im Jargon nennt man dies Swatting[^swatting] 
 - eine Peinigung, die dem Drachenlord wiederholt begegnen wird. 
 
-Die Hater wenden diverse Methoden des Cybermobbings gegen den Drachenlord an:
-(Cyber-)Grooming ist das Anbahnen einer romantischen Beziehung mit der Absicht,
+Die Hater wenden diverse Methoden des Cybermobbings gegen den Drachenlord an:\newline
+(Cyber-)-Grooming ist das Anbahnen einer romantischen Beziehung mit der Absicht,
 dem Opfer vertrauliche Informationen zu entlocken oder diesen bloß zu stellen.
 So stellt der Drachenlord -- ohne die andere Person im realen Leben zu kennen -- in einem Livestream[^mettwoch] mit über 4000 Zuschauern einen Heiratsantrag.
 Darauf antwortet die "Partnerin":
@@ -135,12 +135,13 @@ Darauf antwortet die "Partnerin":
 
 Es kommen noch zwei Männer ins Bild, die den Drachenlord auslachen bevor diese aus dem Stream verschwinden.
 Dieser ist sichtlich emotional angegriffen, verteidigt sich wenige Minuten später vor dem Publikum.
+
 Eine weitere Facette des Cybermobbings wiederholt sich regelmäßig:
 über Rainer Winkler werden Falschinformationen gestreut.
 Nach dem Attentat von Kongsberg berichten diverse Medien von 'Rainer Winklarson' als Täter[^winklarson].
 Dabei sind die Medien einem Tweet auf den Leim gegangen, der Bilder des Drachenlord beim Bogenschießen zeigt.
 So wurde Rainer Winkler als Attentäter dargestellt.
-Seine Identiät wurde auch von anderen Personen angenommen, so etwa zu Beginn des Jahres 2023 in einem Zeitungsinterview[^bild-interview].
+Seine Identität wurde auch von anderen Personen angenommen, so etwa zu Beginn des Jahres 2023 in einem Zeitungsinterview[^bild-interview].
 
 [^pruegel]: https://drachenchronik.com/video/tg5bRF76Xnk
 [^erster_besuch]: https://drachenchronik.com/date/2014/12/20
