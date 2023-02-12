@@ -303,13 +303,52 @@ Fakten:
 
 ## Widersprüche
 
-<!--
-digitale Freizeit
-Kompetenz von Lehrkräften
-keine Kontrolle der Medien
-verwendete Medien
-'unsichtbar'
--->
+Eine aktuelle Studie[^cybercrime] legt dar,
+dass die Hälfte der Jugendlichen zwischen 16 und 20 Jahren vier bis sieben Stunden pro Tag online ist.
+Schüler:innen verbringen somit einen großen Teil ihrer Freizeit digital.
+Die Studie untersuchte, ob Jugendliche und junge Menschen in einer Form von Internetkriminalität aktiv sind.
+Jede:r vierte Befragte gab an, schon mal an "Trolling" beteiligt gewesen zu sein.
+Dabei will man im Internet Menschen verärgern oder eine verbale Auseinandersetzung entfachen[^trolling].
+22% der Jugendlichen haben bereits online Gewalt angestiftet.
+
+Diese durchweg negativen Statistiken beziehen sich zwar nicht nur auf die Schule,
+jedoch ist Schule als Plattform des sozialen Austauschs für viele Jugendliche Dreh- und Angelpunkt des Alltags.
+Lehrkräfte sind somit mit dieser Problematik konfrontiert,
+wenngleich ihr Handlungsspielraum begrenzt ist.
+Dieser Abschnitt beschreibt einige Herausforderungen im Umgang mit Cyberkriminalität für Lehrkräfte.
+Der nächste Abschnitt zeigt exemplarisch mögliche Herangehensweise zur Thematisierung, Behandlung und Bekämpfung von Cyberkriminalität und insbesondere Cybermobbing.
+
+Viele Lehrkräfte in Deutschland sehen bei sich keine guten digitalen Kompetenzen[^digi_kompetenz].
+Gerade ältere Lehrer:innen sind überfordert, wenn es um digitale Medien geht.
+Wer sich nicht in der Online-Umgebung der Schüler:innen auskennt,
+kann auch nicht eingreifen.
+
+An vielen Schulen in Deutschland sind Smartphones verboten;
+Auseinandersetzungen im Cyberraum spielen sich so meist nur außerhalb der Schulzeit ab.
+Die Effekte reichen jedoch -- wie oben gezeigt -- durch psychische Belastung bis in den Unterricht.
+Eine Intervention in Delikte, die in der Freizeit der Schüler:innen stattfindet, ist schwierig,
+da es keine zeitliche Überschneidung gibt.
+Im Nachhinein können die Auswirkungen meist nur gelindert werden.
+
+Auch die digitale Bühne von Cybermobbing und -kriminalität ist für Lehrkräfte ein Hindernis beim Eingreifen.
+Schüler:innen verwenden Messenger, auf die Lehrkräfte keinen Zugriff haben[^cyberlife_iv].
+Beispielsweise ist _WhatsApp_ bei Jugendlichen sehr populär,
+für Lehrer:innen ist dieses Medium jedoch verboten[^whatsapp];
+eine Kontrolle von Klassen-_WhatsApp_-Gruppen ist damit nicht möglich.
+Darüber hinaus ist davon auszugehen,
+dass Schüler:innen an einem unkontrolliertem Austausch interessiert sind
+und somit die aktive Kontrolle von Klassengruppen nicht möglich ist.
+In sozialen Medien wie _Facebook_ und _Instagram_ ist es fraglich,
+ob Lehrkräfte sich mit Schüler:innen verbinden sollten.
+In diesen Netzwerken können viele Nutzer:innen ihre Privatspähre schützen;
+sowohl Lehrer:innen als auch Schüler:innen müssen sich daher nicht vernetzen.
+Interaktionen zwischen Schüler:innen bleiben daher oft nur für dieses ausgewählte Netzwerk sichtbar.
+Auch "räumlich" sind Lehrkräfte somit dem Eingreifen in Cybermobbing fern.
+
+[^digi_kompetenz]: https://www.vodafone-stiftung.de/zwischen-vision-und-realitaet-im-21-jahrhundert-lernen-und-lehren-im-europaeischen-vergleich/
+[^trolling]: https://de.wikipedia.org/wiki/Troll_(Netzkultur)
+[^cybercrime]: https://www.golem.de/news/cyberkriminalitaet-jeder-vierte-jugendliche-ist-ein-internettroll-2212-170262.html
+[^whatsapp]: https://it.kultus-bw.de/,Lde/1653651
 
 ## Maßnahmen
 
