@@ -280,7 +280,7 @@ In der folgenden Abbildung sind die persönlichen Auswirkungen für Betroffene g
 24% der Befragten geben an, durch Cybermobbing Suizidgedanken zu haben.
 Diese extreme Konsequenz ist alarmierierend.
 
-![Persönliche Auswirkungen von Cybermobbing. Quelle: Cyberlife IV](auswirkungen.png)
+![Persönliche Auswirkungen von Cybermobbing. Quelle: Cyberlife IV, Abb. 88](auswirkungen.png)
 
 Durch die Allgegenwart des Internets im Leben der Schüler:innen gibt es für Betroffene von Cybermobbing keine Rückzugsorte.
 Der Vorschlag, als Betroffene keine digitalen Medien zu nutzen, kann Effekte des Cybermobbing verstärken:
@@ -291,7 +291,7 @@ Man kann durch die Ubiquität der digitalen Medien davon ausgehen,
 dass auch bei klassichem Mobbing oft Cybermobbing einhergeht
 und somit eine höhere Dunkelziffer für Fälle von Cybermobbing vorliegt.
 
-[^cyberlife_iv]: https://www.tk.de/presse/themen/praevention/medienkompetenz/studie-cyberlife-2022-2135612
+[^cyberlife_iv]: Beitzinger, Franz et al. (2022) Cyberlife IV. https://www.tk.de/presse/themen/praevention/medienkompetenz/studie-cyberlife-2022-2135612
 
 <!--
 Fakten:
@@ -330,7 +330,7 @@ da es keine zeitliche Überschneidung gibt.
 Im Nachhinein können die Auswirkungen meist nur gelindert werden.
 
 Auch die digitale Bühne von Cybermobbing und -kriminalität ist für Lehrkräfte ein Hindernis beim Eingreifen.
-Schüler:innen verwenden Messenger, auf die Lehrkräfte keinen Zugriff haben[^cyberlife_iv].
+Schüler:innen verwenden Messenger, auf die Lehrkräfte keinen Zugriff haben[^cyberlife_iv_24].
 Beispielsweise ist _WhatsApp_ bei Jugendlichen sehr populär,
 für Lehrer:innen ist dieses Medium jedoch verboten[^whatsapp];
 eine Kontrolle von Klassen-_WhatsApp_-Gruppen ist damit nicht möglich.
@@ -344,6 +344,7 @@ sowohl Lehrer:innen als auch Schüler:innen müssen sich daher nicht vernetzen.
 Interaktionen zwischen Schüler:innen bleiben daher oft nur für dieses ausgewählte Netzwerk sichtbar.
 Auch "räumlich" sind Lehrkräfte somit dem Eingreifen in Cybermobbing fern.
 
+[^cyberlife_iv_24]: S.24, https://www.tk.de/resource/blob/2135626/745900ec03dfdec67269a15dc5b02ff8/tk-studie-cybermobbing-iv-data.pdf
 [^digi_kompetenz]: https://www.vodafone-stiftung.de/zwischen-vision-und-realitaet-im-21-jahrhundert-lernen-und-lehren-im-europaeischen-vergleich/
 [^trolling]: https://de.wikipedia.org/wiki/Troll_(Netzkultur)
 [^cybercrime]: https://www.golem.de/news/cyberkriminalitaet-jeder-vierte-jugendliche-ist-ein-internettroll-2212-170262.html
@@ -389,20 +390,24 @@ Selbstreflexion im Umgang mit sozialen Netzwerken und weitere.
 Das ausgearbeitete Material ermöglicht die einfache Durchführung eines Projektes.
 
 Auch strukturell können Schulen Maßnahmen umsetzen; 
-die Cyberlife-Studie[^cyberlife_iv] hält fest, dass solche Strukturen oft fehlen.
+die Cyberlife-Studie[^cyberlife_iv_37] hält fest, dass solche Strukturen oft fehlen.
 Mögliche Maßnahmen sind: ein Anti-Mobbing-Beauftragte:r, eine anonyme Meldestelle oder auch nur Hinweise oder Links zu Online- oder Telefonberatungsstellen.
+
+[^cyberlife_iv_37]: S.37, https://www.tk.de/resource/blob/2135626/745900ec03dfdec67269a15dc5b02ff8/tk-studie-cybermobbing-iv-data.pdf
 
 Da Cybermobbing sowohl zeitlich als auch räumlich nicht an die Schule gebunden ist,
 ist die Zusammenarbeit mit Eltern wichtig.
 Dies zeigt sich in Abbildung 3:
 für die Hälfte der betroffenen sind Eltern eine Anlaufstelle,
 um Cybermobbing aufzuarbeiten.
-Darüber hinaus wünschen sich viele Lehrkräfte laut der Cyberlife-Studie[^cyberlife_iv]
+Darüber hinaus wünschen sich viele Lehrkräfte laut der Cyberlife-Studie[^cyberlife_iv_78]
 mehr Unterstützung von Eltern bei der Thematik Cybermobbing.
 Hier ist hervorzuheben, dass Informationsmaterial und Schulungen meist nur den Schüler:innen bereitgestellt werden.
 Die Eltern sollten dabei berücksichtigt werden und mit Informationen versorgt werden.
 
-![Mit wem arbeiten Schüler:innen Cybermobbing auf? Quelle: Cyberlife IV](Ansprechpartner.png)
+[^cyberlife_iv_78]: S.78, https://www.tk.de/resource/blob/2135626/745900ec03dfdec67269a15dc5b02ff8/tk-studie-cybermobbing-iv-data.pdf
+
+![Mit wem arbeiten Schüler:innen Cybermobbing auf? Quelle: Cyberlife IV, Abb 89](Ansprechpartner.png)
 
 Einige der hier vorgeschlagenen Maßnahmen finden sich auch in den Wünschen der Schüler:innen wieder,
 siehe Abbildung 4.
@@ -413,7 +418,7 @@ Daher empfiehlt sich die Absprache mit dem Kollegium,
 das Einbeziehen der Eltern
 sowie eine starke Kooperation mit den Schüler:innen.
 
-![Welche Unterstützung wünschen sich Schüler:innen? Quelle: Cyberlife IV](wunschhilfe.png)
+![Welche Unterstützung wünschen sich Schüler:innen? Quelle: Cyberlife IV, Abb. 90](wunschhilfe.png)
 
 [^Dokumentieren]: https://www.klicksafe.de/cybermobbing#c50980
 [^Olweus]: https://www.gruene-liste-praevention.de/nano.cms/datenbank/programm/15
