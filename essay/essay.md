@@ -23,8 +23,6 @@ Nach Definition und Darstellung wird der Fall des "Drachenlord" bearbeitet,
 um verschiedene Perspektiven auf das Thema zu beleuchten.
 Abschließend wird die Relevanz von Cybermobbing im schulischen Kontext argumentiert.
 
-## Definition Cybermobbing
-
 Cybermobbing umfasst die Nutzung von Technologien wie sozialen Medien und Messaging-Apps, um andere zu belästigen, einzuschüchtern und zu schikanieren.
 Dies kann viele Formen annehmen, vom Versenden von Drohungen über die Verbreitung von Gerüchten
 bis hin zum Teilen von peinlichen Fotos oder Videos ohne die Zustimmung des Opfers;
@@ -352,17 +350,82 @@ Auch "räumlich" sind Lehrkräfte somit dem Eingreifen in Cybermobbing fern.
 
 ## Maßnahmen
 
-<!--
-Workshops, siehe offline-Mobbing
-jüngere Schüler -> schlechtere Motive
-Schulformen
-Abb. 89: an wen wird sich gewandt
-Abb. 90: gewünschte Unterstützung
+Die Behandlung von Cybermobbing ist für Lehrkräfte eine Herausforderung.
+Dieser Abschnitt schlägt mögliche Herangehensweisen zur Behandlung von Cybermobbing vor.
 
--->
+Für einen akuten Fall von Cybermobbing gibt es Anzeichen, die man als Lehrkraft kennen sollte:
+Auf Opferseite äußert sich dies beispielsweise in einer plötzlichen Verschlossenheit,
+einem rapiden Leistungsabfall in der Schule, einer erhöhten Fehlquote im Unterricht oder körperlichen Anzeichen wie Übermüdung.
+Mobbing hat jedoch auch Auswirkungen auf das Sozialverhalten aller Schüler:innen.
+Verändert sich das Klassenklima oder werden einzelne Personen aus der Gemeinschaft ausgegrenzt, kann Mobbing die Ursache sein.
+Liegt ein akuter Fall vor, so ist zunächst die soziale Unterstützung der betroffenen Person wichtig.
+Dabei ist die Individualität der Person und des Falles zu berücksichtigen.
+Sind Freunde und Familie für das Opfer keine gewünschte Unterstützung,
+so kann es sinnvoll sein, Unterstützung von extern zu suchen.
+Es gibt Online- und Telefonberatungsstellen, beispielsweise die _Nummer gegen Kummer_,
+aber auch Vertrauenslehrer:innen oder der schulpsychologische Dienst können helfen.
+Die Angriffe zu dokumentieren ist hilfreich, um weitere Hilfe zu vereinfachen[^Dokumentieren].
+Damit ist es möglich, Täter:innen zu stellen und objektiv eine Bestrafung durchzuführen.
+Weiterhin bieten die meisten Plattformen Optionen zum Melden von missbräuchlichen Inhalten;
+die Betreiber können die Beleidigungen und Falschinformationen löschen.
+Bei akuten Fällen ist vor allem die Unterstützung des Opfers wichtig,
+für mehr Informationen wird auf diesen Link[^Dokumentieren] verwiesen.
+
+Zur Vorbeugung von Cybermobbing eignen sich Projekte und Programme.
+Als ganzheitliches Programm für Schulen ist Olweus[^Olweus] nenneswert.
+Auch wenn dieses ursprünglich ein Präventionsprogramm für klassisches Mobbing ist,
+sind die Inhalte auch für Cybermobbing relevant:
+"Dabei wird eine Steigerung ihrer sozialen Kompetenz angestrebt, sowie eine Kompetenzsteigerung der Lehrkräfte im Umgang mit Mobbing und antisozialem Verhalten. Weiterhin soll eine Verbesserung des Schulklimas und des Zusammenhalts erreicht werden."
+Olweus ist bereits an vielen Schulen erfolgreich implementiert.
+
+Wer gezielt mit Schüler:innen Cybermobbing thematisieren möchte,
+der sei auf das Material von klicksafe[^praxisprojekt] verwiesen.
+In Projektarbeit werden verschiedene Kompetenzen der Schüler:innen gebildet:
+Cybermobbing erkennen, Rollen, Erscheinungsformen, Auswirkungen für Betroffene, Rechtliches, 
+Selbstreflexion im Umgang mit sozialen Netzwerken und weitere.
+Das ausgearbeitete Material ermöglicht die einfache Durchführung eines Projektes.
+
+Auch strukturell können Schulen Maßnahmen umsetzen; 
+die Cyberlife-Studie[^cyberlife_iv] hält fest, dass eine solche Strukturen oft fehlen.
+Mögliche Maßnahmen sind: ein Anti-Mobbing-Beauftragte:r, eine anonyme Meldestelle oder auch nur Hinweise oder Links zu Online- oder Telefonberatungsstellen.
+
+Da Cybermobbing sowohl zeitlich als auch räumlich nicht an die Schule gebunden ist,
+ist die Zusammenarbeit mit Eltern wichtig.
+Dies zeigt sich in Abbildung 3.
+Für die Hälfte der betroffenen sind Eltern eine Anlaufstelle,
+um Cybermobbing aufzuarbeiten.
+Darüber hinaus wünschen sich viele Lehrkräfte laut der Cyberlife-Studie[^cyberlife_iv]
+mehr Unterstützung von Eltern bei der Thematik Cybermobbing.
+Hier ist hervorzuheben, dass Informationsmaterial und Schulungen lediglich den Schüler:innen bereitgestellt werden.
+Die Eltern sollten dabei berücksichtigt werden und mit Informationen versorgt werden.
+
+![Mit wem arbeiten Schüler:innen Cybermobbing auf? Quelle: Cyberlife IV](Ansprechpartner.png)
+
+Einige der hier vorgeschlagenen Maßnahmen finden sich auch in den Wünschen der Schüler:innen wieder,
+siehe Abbildung 4.
+Da Mobbing sich nicht zwischen einzelnen Personen abspielt, sondern
+verschiedene Rollen involviert sind und diverse soziale Kontexte eingebunden sind,
+ist eine ganzheitliche Behandlung wichtig.
+Daher empfiehlt sich die Absprache mit dem Kollegium, 
+das Einbeziehen der Eltern
+sowie eine starke Kooperation mit den Schüler:innen.
+
+![Welche Unterstützung wünschen sich Schüler:innen? Quelle: Cyberlife IV](wunschhilfe.png)
+
+[^Dokumentieren]: https://www.klicksafe.de/cybermobbing#c50980
+[^Olweus]: https://www.gruene-liste-praevention.de/nano.cms/datenbank/programm/15
+[^praxisprojekt]: https://www.klicksafe.de/fileadmin/cms/download/Sonstiges/Themen/Cybermobbing/Kapitel8_Praxisprojekte_Pr%C3%A4vention_CyberMobbing.pdf
 
 # Fazit
 
-<!--
-  Kompetenzen, Gesellschaft als Fundament
--->
+Cybermobbing ist ein reales Problem an Schulen.
+Dieses Dossier soll mit einem großen Fallbeispiel sensibilisieren
+und durch konkrete Maßnahmen Perspektiven für den Alltag Schule aufzeigen.
+Oft können Strukturen verbessert werden,
+um Betroffene zu unterstützen.
+Mit einigen Anregungen zum Erkennen, Behandeln und Verhindern von Cybermobbing 
+ist es dem Autor ein Anliegen,
+angehende Lehrkräfte zu motivieren die Thematik ernst zu nehmen.
+Es bleibt zu hoffen, dass in Zukunft weniger Kinder und Jugendliche von den
+tiefgreifenden Konsequenzen des (Cyber-)Mobbing betroffen sind.
+
