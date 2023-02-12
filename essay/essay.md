@@ -1,6 +1,6 @@
 ---
 title: "Cybermobbing"
-subtitle: "Extrema, Schule und Maßnahmen"
+subtitle: "Extrema, Schule und Maßnahmen\\newline EPG II -- Prof. Dr. Nennen\\newline WS 22/23"
 author: "Malte Voß"
 date: "\\today"
 titlepage: true
