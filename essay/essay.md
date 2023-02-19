@@ -264,7 +264,7 @@ Es geben 16,7% der Schüler:innen an, von Cybermobbing betroffen gewesen zu sein
 Die häufigsten Erscheinungsformen sind dabei Beleidigung, Ausgrenzung und Verleumdung.
 Seltener sind Verbreitung privaten (peinlichen) Bildmaterials
 sowie Aneignung der digitalen Identität. 
-Darüber hinaus wurde festgestellt, dass jede fünfte Täter:in bereits selbst von Cybermobbing betroffen war.
+Darüber hinaus wurde festgestellt, dass jede:r fünfte Täter:in bereits selbst von Cybermobbing betroffen war.
 Die Autor:innen legen nahe, dass Opfer somit ein erhöhtes Risiko haben, selbst Täter zu werden.
 
 Die befragten Täter:innen geben als Motive an:
@@ -275,7 +275,8 @@ Die befragten Täter:innen geben als Motive an:
 - zum Spaß / aus Langeweile (33% / 23%)
 - es ist cool (13%)
 
-Insbesondere die beiden zu letzt aufgezählten Motive sind stark fragwürdig.
+Insbesondere die beiden zu letzt aufgezählten Motive sind besorgniserregend;
+mit niederen Motiven fügen Täter:innen Leid zu.
 In der folgenden Abbildung sind die persönlichen Auswirkungen für Betroffene graphisch dargestellt.
 24% der Befragten geben an, durch Cybermobbing Suizidgedanken zu haben.
 Diese extreme Konsequenz ist alarmierierend.
@@ -300,7 +301,7 @@ Fakten:
 - Golem Artikel
 -->
 
-## Widersprüche
+## Herausforderungen
 
 Eine aktuelle Studie[^cybercrime] legt dar,
 dass die Hälfte der Jugendlichen zwischen 16 und 20 Jahren vier bis sieben Stunden pro Tag online ist.
@@ -355,7 +356,7 @@ Auch "räumlich" sind Lehrkräfte somit dem Eingreifen in Cybermobbing fern.
 Die Behandlung von Cybermobbing ist für Lehrkräfte eine Herausforderung.
 Dieser Abschnitt schlägt mögliche Herangehensweisen zur Behandlung von Cybermobbing vor.
 
-Für einen akuten Fall von Cybermobbing gibt es Anzeichen, die man als Lehrkraft kennen sollte:
+Für einen akuten Fall von Cybermobbing gibt es Anzeichen[^erkennen], die man als Lehrkraft kennen sollte:
 Auf Opferseite äußert sich dies beispielsweise in einer plötzlichen Verschlossenheit,
 einem rapiden Leistungsabfall in der Schule, einer erhöhten Fehlquote im Unterricht oder körperlichen Anzeichen wie Übermüdung.
 Mobbing hat jedoch auch Auswirkungen auf das Sozialverhalten aller Schüler:innen.
@@ -373,6 +374,7 @@ die Betreiber können die Beleidigungen und Falschinformationen löschen.
 Bei akuten Fällen ist vor allem die Unterstützung des Opfers wichtig,
 für mehr Informationen zur Intervention wird auf diesen Link[^Dokumentieren] verwiesen.
 
+[^erkennen]: https://cyberhelp.eduskills.plus/introduction/how_to_recognize
 [^nummerggkummer]: https://www.nummergegenkummer.de/
 
 Zur Vorbeugung von Cybermobbing eignen sich Projekte und Programme.
